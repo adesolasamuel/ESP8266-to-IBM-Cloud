@@ -27,10 +27,6 @@ char ssid[] = "raspberr";     //  your network SSID (name)
 char pass[] = "dayo2022";  // your network password
 
 
-// --------------------------------------------------------------------------------------------
-//        SHOULD NOT NEED TO CHANGE ANYTHING BELOW THIS LINE
-// --------------------------------------------------------------------------------------------
-
 DHT dht(DHT_PIN, DHTTYPE);
 
 
